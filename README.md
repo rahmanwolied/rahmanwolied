@@ -26,7 +26,7 @@
 </a>
 <br />
 <div align="center">
-	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahmanwolied&theme=dark)](https://git.io/streak-stats)
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanwolied&theme=dark" alt="GitHub Streak" />
 </div>
 
 <br />
