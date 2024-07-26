@@ -9,18 +9,16 @@
 🔭 And working on a fullstack crypto trading app <br>
 📫 Reach me at mosheur.r.wolied@gmail.com <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahmanwolied&theme=dark)](https://git.io/streak-stats)
-
-<br>
-
-<!-- Github Stats -->
 
 <h1 align="center">Github Stats</h1>
-    <img alt="rahmanwolied :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=rahmanwolied&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-    <img alt="rahmanwolied :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanwolied&layout=compact&count_private=true&theme=blue-green&hide_border=true">
-    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rahmanwolied&theme=blue-green&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rahmanwolied&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmanwolied&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 
-<br>
+<img alt="rahmanwolied :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=rahmanwolied&theme=dark&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
 
 
 <h2>Languages & Tools</h2>
