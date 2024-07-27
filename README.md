@@ -1,10 +1,3 @@
-<style>
-	.score-and-lang {
-		display: grid;
-		gap: 10px;
-	}
-</style>
-
 <h1 align="center">Mosheur Rahman Wolied</h1>
 <h3 align="center">Fullstack Web3 Dev | AI | Blockchain</h3>
 <br />
