@@ -21,13 +21,9 @@
 <h1 align="center">Github Stats</h1>
 
 <div class="score-and-lang">
-	<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rahmanwolied&theme=dark" />
-
-	<img
-		height="200"
-		align="center"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmanwolied&layout=compact&langs_count=8&theme=dark" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanwolied&theme=dark" alt="GitHub Streak" />
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rahmanwolied&theme=dark" />
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmanwolied&layout=compact&langs_count=8&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanwolied&theme=dark" alt="GitHub Streak" />
 </div>
 
 <div align="center" class="streak"></div>
