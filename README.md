@@ -5,7 +5,7 @@
 
 ### Hi there 👋 <br />
 🌱 Fullstack Web3 Developer <br />
-💼 Working at <a href="https://www.fameguild.com">FameGuild</a>, an NFT Marketplace <br />
+💼 Working at <a href="https://fameguild.com/">FameGuild</a>, an NFT Marketplace <br />
 🔭 Working on a Fullstack Crypto Trading App as a side project<br />
 📫 Reach me at mosheur.r.wolied@gmail.com <br />
 
